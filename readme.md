@@ -35,3 +35,5 @@ private:
 ### Conclusion
 By following all the steps, I had a better understanding of the state machine in Qt and also reviewed my knowledge on slots. I also learnt more about timer and animation in Qt and tried to find the link with doing them in web development. There is a screenshot of the final implementation.
 
+## Final Result   
+![img](https://github.com/winsa24/-QT-Microwave/blob/main/result.gif)   
