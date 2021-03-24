@@ -37,3 +37,10 @@ By following all the steps, I had a better understanding of the state machine in
 
 ## Final Result   
 ![img](https://github.com/winsa24/-QT-Microwave/blob/main/result.gif)   
+
+
+> Useful Link for QAnimation.   
+> https://www.cnblogs.com/cmt/p/14553189.html    
+> https://blog.csdn.net/tiandyoin/article/details/105936390?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-0&spm=1001.2101.3001.4242    
+> https://forum.qt.io/topic/23965/solved-how-can-i-know-what-animations-qpropertyanimation-can-do    
+>  
